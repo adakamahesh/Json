@@ -1,0 +1,99 @@
+{
+   "products":[
+    {
+        "id":1,
+        "title":"product 1",
+        "category":"electronics",
+        "price":4000,
+        "description":"this is description about product 1"
+    },
+    {
+        "id":2,
+        "title":"product 2",
+        "category":"electronics",
+        "price":2000,
+        "description":"this is description about product 2"
+    },
+    {
+        "id":3,
+        "title":"product 3",
+        "category":"electronics",
+        "price":1000,
+        "description":"this is description about product 3"
+    },
+    {
+        "id":4,
+        "title":"product 4",
+        "category":"electronics",
+        "price":3000,
+        "description":"this is description about product 4"
+    },
+    {
+        "id":5,
+        "title":"product 5",
+        "category":"electronics",
+        "price":5000,
+        "description":"this is description about product 5"
+    },
+    {
+        "id":6,
+        "title":"product 6",
+        "category":"electronics",
+        "price":5000,
+        "description":"this is description about product 6"
+    },
+    {
+        "id":7,
+        "title":"product 7",
+        "category":"electronics",
+        "price":6000,
+        "description":"this is description about product 7"
+    },
+    {
+        "id":8,
+        "title":"product 8",
+        "category":"electronics",
+        "price":7000,
+        "description":"this is description about product 8"
+    },
+    {
+        "id":9,
+        "title":"product 9",
+        "category":"electronics",
+        "price":8000,
+        "description":"this is description about product 9"
+    }
+   ] ,
+   "reviews":[
+    {
+        "id":1,
+        "rating":3,
+        "comment":"review 1 for product id 1",
+        "productId":1
+    },
+    {
+        "id":2,
+        "rating":4,
+        "comment":"review 2 for product id 1",
+        "productId":1
+    },
+    {
+        "id":3,
+        "rating":4,
+        "comment":"review 3 for product id 1",
+        "productId":1
+    },
+    {
+        "id":4,
+        "rating":5,
+        "comment":"review 1 for product id 2",
+        "productId":2
+    },
+    {
+        "id":5,
+        "rating":3,
+        "comment":"review 1 for product id 3",
+        "productId":3
+    }
+   ]
+}
